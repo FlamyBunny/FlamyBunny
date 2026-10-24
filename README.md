@@ -17,7 +17,6 @@ Cybersecurity practitioner focused on **digital forensics and incident response 
 ## Selected projects
 
 - [OSCP Master Cheatsheet](https://github.com/FlamyBunny/OSCP-Master-Cheatsheet) — personal reference notes for penetration-testing workflows
-- [File Integrity Monitoring System](https://github.com/FlamyBunny/File-Integrity-Monitoring-System) — project exploring file integrity monitoring
 
 ## Education and development
 
