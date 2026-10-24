@@ -14,9 +14,9 @@ Cybersecurity practitioner focused on **digital forensics and incident response 
 - **Penetration testing:** network and web application testing, enumeration, and vulnerability validation
 - **Tools:** Volatility, KAPE and Eric Zimmerman tools, X-Ways, FTK, Magnet AXIOM, Splunk, Wireshark, and Zeek
 
-## Selected projects
+## Featured project
 
-- [OSCP Master Cheatsheet](https://github.com/FlamyBunny/OSCP-Master-Cheatsheet) — personal reference notes for penetration-testing workflows
+- [OSCP Master Cheatsheet](https://github.com/FlamyBunny/OSCP-Master-Cheatsheet) — a personal reference for structured enumeration and penetration-testing workflows in authorized lab environments.
 
 ## Education and development
 
