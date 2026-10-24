@@ -6,7 +6,6 @@ Cybersecurity practitioner focused on **digital forensics and incident response 
 
 - **Offensive Security Certified Professional (OSCP)**
 - **GIAC Certified Forensic Analyst (GCFA)**
-- **GIAC Foundational Cybersecurity Analyst (GXFA)**
 
 ## Focus areas and tools
 
